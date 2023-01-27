@@ -1,4 +1,5 @@
 # Basic Generative Pre-trained Transformer Model
+## Goal of this model is text completion
 
 Install tokenizer used in GPT3
 ```
